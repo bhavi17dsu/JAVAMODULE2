@@ -12,6 +12,8 @@ DRIVING AGE
 ![Screenshot_11-9-2025_1286_www programiz com](https://github.com/user-attachments/assets/3c92f7dc-e2ce-4d11-8923-38f720fd3730)
 RAINING
 <img width="1363" height="433" alt="image" src="https://github.com/user-attachments/assets/b6ac0365-921c-472e-ac06-daec32dfa8f3" />
+LogicalOrExample
+<img width="1376" height="475" alt="image" src="https://github.com/user-attachments/assets/a6456b2c-986c-458d-996a-db4225e39a01" />
 
 
 
