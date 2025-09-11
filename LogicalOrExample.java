@@ -3,7 +3,7 @@ public class LogicalOrExample{
         boolean isStudent=true;
         boolean isTeacher=false;
         
-        if(!isStudent|| isTeacher){
+        if(isStudent|| isTeacher){
             System.out.println("you can enter the campus");
         }else{
             System.out.println("Access denied");
