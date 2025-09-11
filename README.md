@@ -10,6 +10,8 @@ NOTEQUAL
 ![Screenshot_9-9-2025_15948_www programiz com](https://github.com/user-attachments/assets/008f2d3b-52ca-4c35-b07f-115a22b88b62)
 DRIVING AGE
 ![Screenshot_11-9-2025_1286_www programiz com](https://github.com/user-attachments/assets/3c92f7dc-e2ce-4d11-8923-38f720fd3730)
+RAINING
+<img width="1363" height="433" alt="image" src="https://github.com/user-attachments/assets/b6ac0365-921c-472e-ac06-daec32dfa8f3" />
 
 
 
