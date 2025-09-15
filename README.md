@@ -14,6 +14,9 @@ RAINING
 <img width="1363" height="433" alt="image" src="https://github.com/user-attachments/assets/b6ac0365-921c-472e-ac06-daec32dfa8f3" />
 LogicalOrExample
 <img width="1376" height="475" alt="image" src="https://github.com/user-attachments/assets/a6456b2c-986c-458d-996a-db4225e39a01" />
+Ternary Example
+<img width="1210" height="312" alt="image" src="https://github.com/user-attachments/assets/80cd3aa9-d707-43fe-b66a-043cf132a40a" />
+
 
 
 
