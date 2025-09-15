@@ -16,6 +16,9 @@ LogicalOrExample
 <img width="1376" height="475" alt="image" src="https://github.com/user-attachments/assets/a6456b2c-986c-458d-996a-db4225e39a01" />
 Ternary Example
 <img width="1210" height="312" alt="image" src="https://github.com/user-attachments/assets/80cd3aa9-d707-43fe-b66a-043cf132a40a" />
+Grade Example
+<img width="1032" height="382" alt="image" src="https://github.com/user-attachments/assets/8c2b5144-5f1b-419a-9f73-fda253daee06" />
+
 
 
 
