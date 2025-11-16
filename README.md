@@ -22,22 +22,31 @@ PositiveNegativeZero
 <img width="1258" height="342" alt="image" src="https://github.com/user-attachments/assets/be1fdd4b-64b2-49f6-ae8d-cdcb4db3e06d" />
 
 ARITHEMETIC OPERATIONS 
+<img width="1476" height="624" alt="image" src="https://github.com/user-attachments/assets/47facab8-e9cd-4bb2-b038-1fd2bda3ccc4" />
 
 BITWISE OPERATIONS 
+<img width="1416" height="628" alt="image" src="https://github.com/user-attachments/assets/fef3d470-beb6-4606-86b3-ecefbcee19c8" />
 
 RELATIONAL OPERATORS 
+<img width="1388" height="535" alt="image" src="https://github.com/user-attachments/assets/b30d0029-172b-4117-a676-954e31737aa0" />
 
 LOGICAL OPERATOTS 
+<img width="1489" height="471" alt="image" src="https://github.com/user-attachments/assets/ca6e6a13-48bd-490c-9b77-c8302e3db860" />
 
 ASSIGNMENT OPERATORS 
+<img width="1340" height="337" alt="image" src="https://github.com/user-attachments/assets/bc8bc42f-176a-44a9-9ffb-2e94bd16ee87" />
 
 TERNARY OPERATORS 
+<img width="1451" height="336" alt="image" src="https://github.com/user-attachments/assets/a4f1bbff-fa4e-4e53-92c5-02fef8a2efa7" />
 
 SELECTION STATEMENTS 
+<img width="1390" height="478" alt="image" src="https://github.com/user-attachments/assets/52f13c3b-40b6-4748-9536-0256a04fa588" />
 
 ITERATION STATEMENTS 
+<img width="1236" height="406" alt="image" src="https://github.com/user-attachments/assets/13bbc357-6c82-4750-92d7-178c00ef1a01" />
 
 JUMP STATEMENTS 
+<img width="1203" height="345" alt="image" src="https://github.com/user-attachments/assets/84e21b8e-e36a-4bbd-8ca7-141b94ab916e" />
 
 
 
