@@ -21,6 +21,27 @@ Grade Example
 PositiveNegativeZero
 <img width="1258" height="342" alt="image" src="https://github.com/user-attachments/assets/be1fdd4b-64b2-49f6-ae8d-cdcb4db3e06d" />
 
+ARITHEMETIC OPERATIONS 
+
+BITWISE OPERATIONS 
+
+RELATIONAL OPERATORS 
+
+LOGICAL OPERATOTS 
+
+ASSIGNMENT OPERATORS 
+
+TERNARY OPERATORS 
+
+SELECTION STATEMENTS 
+
+ITERATION STATEMENTS 
+
+JUMP STATEMENTS 
+
+
+
+
 
 
 
